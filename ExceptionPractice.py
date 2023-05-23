@@ -4,7 +4,7 @@ try:
     print("The Number is: "+x)
 except:
     print("The Number is: "+ str(x))
-
+    print("\n")
 # Exception 2
 try:
  x+5
@@ -14,7 +14,7 @@ except:
  x=3
  z= x + 5
  print(z)
-
+ print("\n")
 # Exception 3
 try:
  list = [1,2,3,4]
@@ -22,3 +22,4 @@ try:
 except:
  print("If the out of index value is tried to be printed, print last index instead")
  print(list[-1])
+ print("\n")
