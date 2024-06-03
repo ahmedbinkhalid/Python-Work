@@ -1,0 +1,896 @@
+[
+    {
+        "Section ID": 76,
+        "Title": "Waging war against Pakistan",
+        "Description": "Making war against Pakistan or attempting to wrest any part of Pakistan from the possession of Pakistan",
+        "Punishment": "Death"
+    },
+    {
+        "Section ID": 77,
+        "Title": "Conspiracy to wage war against Pakistan",
+        "Description": "Conspiracy to wage war against Pakistan",
+        "Punishment": "Imprisonment for life or rigorous imprisonment for 10 years"
+    },
+    {
+        "Section ID": 78,
+        "Title": "Attending hostilities against Pakistan",
+        "Description": "Knowingly joining or associating with any persons in arms against Pakistan",
+        "Punishment": "Imprisonment for 7 years"
+    },
+    {
+        "Section ID": 79,
+        "Title": "Public mischief by destroying or damaging public property",
+        "Description": "Destroying or damaging public property with the intention of causing, or knowing it to be likely to cause, common injury",
+        "Punishment": "Imprisonment for 2 years or fine or both"
+    },
+    {
+        "Section ID": 80,
+        "Title": "Public mischief by rendering any public way impassable",
+        "Description": "Making or rendering any public way, bridge, navigable river or channel, or navigable inland water, impassable or less safe for traveling or conveying property",
+        "Punishment": "Imprisonment for 6 months or fine or both"
+    },
+    {
+        "Section ID": 81,
+        "Title": "Disturbing religious assemblies",
+        "Description": "Intentionally insulting any religion or religious beliefs of any class of citizens of Pakistan, or disrupting any religious assembly",
+        "Punishment": "Imprisonment for 2 years or fine or both"
+    },
+    {
+        "Section ID": 82,
+        "Title": "Obstructing lawful apprehension of persons",
+        "Description": "Intentionally obstructing or resisting any person lawfully employed in apprehending another person",
+        "Punishment": "Imprisonment for 7 years or fine or both"
+    },
+    {
+        "Section ID": 83,
+        "Title": "Escaping from custody or confinement",
+        "Description": "Escaping from custody or confinement",
+        "Punishment": "Imprisonment for 7 years or fine or both"
+    },
+    {
+        "Section ID": 84,
+        "Title": "Attempt to rescue or harbor an escaped person",
+        "Description": "Attempting to rescue or harboring an escaped person",
+        "Punishment": "Imprisonment for 3 years or fine or both"
+    },
+    {
+        "Section ID": 85,
+        "Title": "Offering resistance to or defeating execution of any lawful process",
+        "Description": "Offering resistance to, or intentionally obstructing the execution of, any lawful process",
+        "Punishment": "Imprisonment for 2 years or fine or both"
+    },
+    {
+        "Section ID": 86,
+        "Title": "Obstructing public servant in discharge of public functions",
+        "Description": "Obstructing any public servant in the discharge of his public functions",
+        "Punishment": "Imprisonment for 3 years or fine or both"
+    },
+    {
+        "Section ID": 87,
+        "Title": "Neglecting public duty as a public servant",
+        "Description": "Neglecting to perform a public duty as a public servant",
+        "Punishment": "Imprisonment for 6 months or fine or both"
+    },
+    {
+        "Section ID": 88,
+        "Title": "Disobedience to order duly promulgated by public servant",
+        "Description": "Disobeying any lawful and reasonable order duly promulgated by a public servant",
+        "Punishment": "Imprisonment for 6 months or fine or both"
+    },
+    {
+        "Section ID": 89,
+        "Title": "Abetment of mutiny by public servant",
+        "Description": "Abetment of mutiny by any public servant",
+        "Punishment": "Imprisonment for life or rigorous imprisonment for 10 years"
+    },
+    {
+        "Section ID": 90,
+        "Title": "Mutiny by officer, soldier, sailor, or airman",
+        "Description": "Mutiny by an officer, soldier, sailor, or airman in the Pakistan Army, Navy or Air Force",
+        "Punishment": "Death"
+    },
+    {
+        "Section ID": 91,
+        "Title": "Mutiny by non-commissioned officer, soldier, sailor, or airman",
+        "Description": "Mutiny by a non-commissioned officer, soldier, sailor, or airman in the Pakistan Army, Navy or Air Force",
+        "Punishment": "Imprisonment for life or rigorous imprisonment for 10 years"
+    },
+    {
+        "Section ID": 92,
+        "Title": "Abetment of mutiny by non-commissioned officer, soldier, sailor, or airman",
+        "Description": "Abetment of mutiny by a non-commissioned officer, soldier, sailor, or airman in the Pakistan Army, Navy or Air Force",
+        "Punishment": "Imprisonment for 7 years"
+    },
+    {
+        "Section ID": 93,
+        "Title": "Attempt to seduce officer, soldier, sailor, or airman from duty",
+        "Description": "Attempting to seduce an officer, soldier, sailor, or airman in the Pakistan Army, Navy or Air Force from his duty",
+        "Punishment": "Imprisonment for 7 years"
+    },
+    {
+        "Section ID": 94,
+        "Title": "Acts of gross insubordination by soldier, sailor, or airman",
+        "Description": "Acts of gross insubordination by a soldier, sailor, or airman in the Pakistan Army, Navy or Air Force",
+        "Punishment": "Imprisonment for 7 years"
+    },
+    {
+        "Section ID": 95,
+        "Title": "Mutiny by officer of Indian Navy",
+        "Description": "Mutiny by an officer of the Indian Navy",
+        "Punishment": "Death"
+    },
+    {
+        "Section ID": 96,
+        "Title": "Abetment of mutiny by officer of Indian Navy",
+        "Description": "Abetment of mutiny by an officer of the Indian Navy",
+        "Punishment": "Imprisonment for life"
+    },
+    {
+        "Section ID": 97,
+        "Title": "Abetment of mutiny by sailor or marine of Indian Navy",
+        "Description": "Abetment of mutiny by a sailor or marine of the Indian Navy",
+        "Punishment": "Imprisonment for 7 years"
+    },
+    {
+        "Section ID": 98,
+        "Title": "Mutiny by a member of the armed forces of any country cooperating with Pakistan",
+        "Description": "Mutiny by a member of the armed forces of any country cooperating with Pakistan",
+        "Punishment": "Death"
+    },
+    {
+        "Section ID": 99,
+        "Title": "Abetment of mutiny by a member of the armed forces of any country cooperating with Pakistan",
+        "Description": "Abetment of mutiny by a member of the armed forces of any country cooperating with Pakistan",
+        "Punishment": "Imprisonment for life"
+    },
+    {
+        "Section ID": 100,
+        "Title": "Public servant disobeying the direction of the Government of Pakistan",
+        "Description": "Public servant disobeying the direction of the Government of Pakistan lawfully communicated to him",
+        "Punishment": "Imprisonment for 2 years or fine or both"
+    },
+    {
+        "Section ID": 101,
+        "Title": "Abetment of offence by public servant",
+        "Description": "Abetment of an offence by a public servant",
+        "Punishment": "Imprisonment for 2 years or fine or both"
+    },
+    {
+        "Section ID": 102,
+        "Title": "Public servant framing an innocent person",
+        "Description": "Public servant framing an innocent person for an offence punishable with imprisonment for life or rigorous imprisonment for 10 years",
+        "Punishment": "Imprisonment for life"
+    },
+    {
+        "Section ID": 103,
+        "Title": "Public servant fabricating false evidence",
+        "Description": "Public servant fabricating false evidence with intent to cause innocent person to be sentenced to death",
+        "Punishment": "Death"
+    },
+    {
+        "Section ID": 104,
+        "Title": "Public servant fabricating false evidence",
+        "Description": "Public servant fabricating false evidence with intent to cause any person to be convicted of an offence punishable with imprisonment for life or rigorous imprisonment for 10 years",
+        "Punishment": "Imprisonment for 7 years"
+    },
+    {
+        "Section ID": 105,
+        "Title": "Public servant fabricating false evidence",
+        "Description": "Public servant fabricating false evidence for the purpose of causing himself or any other person to be protected from punishment",
+        "Punishment": "Imprisonment for 3 years or fine or both"
+    },
+    {
+        "Section ID": 106,
+        "Title": "Public servant abetting false evidence",
+        "Description": "Public servant abetting the forging or fabricating of false evidence",
+        "Punishment": "Imprisonment for 3 years or fine or both"
+    },
+    {
+        "Section ID": 107,
+        "Title": "Public servant suppressing evidence",
+        "Description": "Public servant suppressing evidence of an offence",
+        "Punishment": "Imprisonment for 3 years or fine or both"
+    },
+    {
+        "Section ID": 108,
+        "Title": "Public servant omitting to make report of an offence",
+        "Description": "Public servant omitting to make a report of an offence committed in his presence",
+        "Punishment": "Imprisonment for 2 years or fine or both"
+    },
+    {
+        "Section ID": 109,
+        "Title": "Abetment of offence by public servant",
+        "Description": "Abetment of an offence by a public servant if the offence abetted is committed",
+        "Punishment": "Imprisonment for 2 years or fine or both"
+    },
+    {
+        "Section ID": 110,
+        "Title": "Punishment of abetment if person abetted does act with different intention from that of abettor",
+        "Description": "Punishment for abetment if the person abetted does the act with a different intention from that of the abettor",
+        "Punishment": "Same punishment as for the offence actually committed"
+    },
+    {
+        "Section ID": 111,
+        "Title": "Attempt to commit offences",
+        "Description": "Attempt to commit an offence punishable by death or imprisonment for life",
+        "Punishment": "Imprisonment for half the period for which the complete offence might have been punished"
+    },
+    {
+        "Section ID": 112,
+        "Title": "Attempt to commit offences",
+        "Description": "Attempt to commit an offence punishable with imprisonment for more than 7 years",
+        "Punishment": "Imprisonment for half the period for which the complete offence might have been punished"
+    },
+    {
+        "Section ID": 113,
+        "Title": "Attempt to commit offences",
+        "Description": "Attempt to commit an offence punishable with imprisonment for 7 years or less",
+        "Punishment": "Imprisonment for 2 years or fine or both"
+    },
+    {
+        "Section ID": 114,
+        "Title": "Abetment of attempt to commit offences",
+        "Description": "Abetment of an attempt to commit an offence",
+        "Punishment": "Imprisonment for half the period for which the abettor would be punishable if the attempt had been completed"
+    },
+    {
+        "Section ID": 115,
+        "Title": "Abetment of an offence punishable with imprisonment for life or rigorous imprisonment for 10 years",
+        "Description": "Abetment of an offence punishable with imprisonment for life or rigorous imprisonment for 10 years",
+        "Punishment": "Imprisonment for life or rigorous imprisonment for 10 years"
+    },
+    {
+        "Section ID": 116,
+        "Title": "Harbouring offender",
+        "Description": "Harbouring or concealing or assisting in the escape of any person whom he knows or has reason to believe to be guilty of an offence punishable with imprisonment for life or rigorous imprisonment for 10 years",
+        "Punishment": "Imprisonment for 3 years or fine or both"
+    },
+    {
+        "Section ID": 117,
+        "Title": "Harbouring offender",
+        "Description": "Harbouring or concealing or assisting in the escape of any person whom he knows or has reason to believe to be guilty of an offence punishable with imprisonment for more than 7 years",
+        "Punishment": "Imprisonment for 2 years or fine or both"
+    },
+    {
+        "Section ID": 118,
+        "Title": "Harbouring offender",
+        "Description": "Harbouring or concealing or assisting in the escape of any person whom he knows or has reason to believe to be guilty of an offence punishable with imprisonment for 7 years or less",
+        "Punishment": "Imprisonment for 1 year or fine or both"
+    },
+    {
+        "Section ID": 119,
+        "Title": "Public servant harbouring or concealing offenders",
+        "Description": "Public servant knowingly harbouring or concealing a person guilty of an offence",
+        "Punishment": "Imprisonment for 2 years or fine or both"
+    },
+    {
+        "Section ID": 120,
+        "Title": "Public servant abetting the harbouring or concealing of offenders",
+        "Description": "Public servant abetting the harbouring or concealing of a person guilty of an offence",
+        "Punishment": "Imprisonment for 2 years or fine or both"
+    },
+    {
+        "Section ID": 121,
+        "Title": "Waging war against Government of India",
+        "Description": "Waging war against the Government of India",
+        "Punishment": "Death"
+    },
+    {
+        "Section ID": 122,
+        "Title": "Conspiracy to wage war against Government of India",
+        "Description": "Conspiring to wage war against the Government of India",
+        "Punishment": "Imprisonment for life or rigorous imprisonment for 10 years"
+    },
+    {
+        "Section ID": 123,
+        "Title": "Collecting arms etc., by an unlawful assembly",
+        "Description": "Collecting arms or ammunition or receiving or possessing or distributing or disposing of arms or ammunition in furtherance of an unlawful assembly",
+        "Punishment": "Imprisonment for 7 years or fine or both"
+    },
+    {
+        "Section ID": 124,
+        "Title": "Attending on unlawful assembly armed",
+        "Description": "Going armed with any deadly weapon to or being armed with any deadly weapon at, an unlawful assembly",
+        "Punishment": "Imprisonment for 3 years or fine or both"
+    },
+    {
+        "Section ID": 125,
+        "Title": "Hiring, engaging, or employing persons to be armed on unlawful assembly",
+        "Description": "Hiring, engaging, or employing persons to go armed with any deadly weapon to an unlawful assembly",
+        "Punishment": "Imprisonment for 2 years or fine or both"
+    },
+    {
+        "Section ID": 126,
+        "Title": "Punishment for assault for committing robbery",
+        "Description": "Committing assault in order to prepare for or to commit robbery",
+        "Punishment": "Imprisonment for 10 years and fine"
+    },
+    {
+        "Section ID": 127,
+        "Title": "Mischief by fire or by explosive substance with intent to destroy human life",
+        "Description": "Committing mischief by fire or by any explosive substance with intent to cause the death of any person",
+        "Punishment": "Death"
+    },
+    {
+        "Section ID": 128,
+        "Title": "Mischief by fire or by explosive substance with intent to cause damage to property",
+        "Description": "Committing mischief by fire or by any explosive substance with intent to cause damage to any property",
+        "Punishment": "Imprisonment for life or rigorous imprisonment for 10 years"
+    },
+    {
+        "Section ID": 129,
+        "Title": "Making mutiny or conspiracy to mutiny among prisoners",
+        "Description": "Inciting or attempting to incite the mutiny of, or joining in any mutiny by, prisoners",
+        "Punishment": "Imprisonment for life"
+    },
+    {
+        "Section ID": 130,
+        "Title": "Abetting mutiny or conspiracy to mutiny among prisoners",
+        "Description": "Abetting the mutiny of, or conspiracy to mutiny by, prisoners",
+        "Punishment": "Imprisonment for 7 years or fine or both"
+    },
+    {
+        "Section ID": 131,
+        "Title": "Trespassing on public works for certain purposes",
+        "Description": "Trespassing on any public work in execution, completion or repair, with intent to obstruct or hinder the lawful progress thereof",
+        "Punishment": "Imprisonment for 2 years or fine or both"
+    },
+    {
+        "Section ID": 132,
+        "Title": "Obstructing or injuring lawful employment on public works",
+        "Description": "Obstructing or injuring any person lawfully employed on a public work",
+        "Punishment": "Imprisonment for 6 months or fine or both"
+    },
+    {
+        "Section ID": 133,
+        "Title": "Maliciously damaging public property",
+        "Description": "Maliciously damaging or destroying public property",
+        "Punishment": "Imprisonment for 5 years or fine or both"
+    },
+    {
+        "Section ID": 134,
+        "Title": "Offering bribe to a public servant",
+        "Description": "Offering any undue gratification to a public servant, as motive or reward for doing or refraining from doing any official act",
+        "Punishment": "Imprisonment for 3 years or fine or both"
+    },
+    {
+        "Section ID": 135,
+        "Title": "Abetment of taking undue gratification by a public servant",
+        "Description": "Abetting the taking of undue gratification by a public servant",
+        "Punishment": "Imprisonment for 3 years or fine or both"
+    },
+    {
+        "Section ID": 136,
+        "Title": "Public servant taking undue gratification for exercise of official functions",
+        "Description": "Public servant taking undue gratification for the exercise of the official functions of his office",
+        "Punishment": "Imprisonment for 7 years or fine or both"
+    },
+    {
+        "Section ID": 137,
+        "Title": "Abetment of taking undue gratification for exercise of official functions",
+        "Description": "Abetting the taking of undue gratification for the exercise of the official functions of a public servant",
+        "Punishment": "Imprisonment for 4 years or fine or both"
+    },
+    {
+        "Section ID": 138,
+        "Title": "Public servant taking reward for doing what is his duty",
+        "Description": "Public servant taking reward for doing what he is legally bound to do without reward",
+        "Punishment": "Imprisonment for 1 year or fine or both"
+    },
+    {
+        "Section ID": 139,
+        "Title": "Abetment of taking reward for doing what is his duty",
+        "Description": "Abetting the taking of reward for doing what he is legally bound to do without reward",
+        "Punishment": "Imprisonment for 6 months or fine or both"
+    },
+    {
+        "Section ID": 140,
+        "Title": "Personating a public servant",
+        "Description": "Knowingly personating a public servant, or wearing the garb or carrying any token of any public servant with intent to deceive any person",
+        "Punishment": "Imprisonment for 3 years or fine or both"
+    },
+    {
+        "Section ID": 141,
+        "Title": "Unlawfully assuming public office",
+        "Description": "Knowingly and without lawful authority taking upon oneself the office of a public servant",
+        "Punishment": "Imprisonment for 2 years or fine or both"
+    },
+    {
+        "Section ID": 142,
+        "Title": "Falsely certifying public document",
+        "Description": "Fabricating or knowingly and fraudulently altering or causing to be fabricated or altered a public document",
+        "Punishment": "Imprisonment for 7 years or fine or both"
+    },
+    {
+        "Section ID": 143,
+        "Title": "Using document forged or falsely altered",
+        "Description": "Knowingly using a document which has been fraudulently or dishonestly made or altered",
+        "Punishment": "Imprisonment for 3 years or fine or both"
+    },
+    {
+        "Section ID": 144,
+        "Title": "Public servant disobeying law with intent to cause injury to any person",
+        "Description": "Public servant knowingly disobeying the law with intent to cause injury to any person",
+        "Punishment": "Imprisonment for 2 years or fine or both"
+    },
+    {
+        "Section ID": 145,
+        "Title": "Fraudulently making false statement in any declaration which is by law receivable as evidence",
+        "Description": "Making a false statement in any declaration which is by law receivable as evidence knowing or believing it to be false",
+        "Punishment": "Imprisonment for 3 years or fine or both"
+    },
+    {
+        "Section ID": 146,
+        "Title": "Cheating",
+        "Description": "Cheating and thereby dishonestly inducing delivery of property or any valuable security",
+        "Punishment": "Imprisonment for 7 years or fine or both"
+    },
+    {
+        "Section ID": 147,
+        "Title": "Manipulating accounts to cause loss",
+        "Description": "Making or falsifying, or causing to be made or falsified, any account or statement of accounts of any public officer or public company",
+        "Punishment": "Imprisonment for 10 years or fine or both"
+    },
+    {
+        "Section ID": 148,
+        "Title": "Abetment of forgery",
+        "Description": "Abetting the forgery of a document or record",
+        "Punishment": "Imprisonment for the same term as for the offence abetted"
+    },
+    {
+        "Section ID": 149,
+        "Title": "Giving false evidence",
+        "Description": "Giving false evidence in any stage of a proceeding in any Court or before any person authorized by law to receive evidence",
+        "Punishment": "Imprisonment for 3 years or fine or both"
+    },
+    {
+        "Section ID": 150,
+        "Title": "Fabricating false evidence",
+        "Description": "Fabricating false evidence for the purpose of being used in any stage of a proceeding in any Court or before any person authorized by law to receive evidence",
+        "Punishment": "Imprisonment for 7 years or fine or both"
+    },
+    {
+        "Section ID": 151,
+        "Title": "Tampering with evidence",
+        "Description": "Tampering with evidence with intent to mislead the Court or any person authorized by law to investigate or try an offence",
+        "Punishment": "Imprisonment for 3 years or fine or both"
+    },
+    {
+        "Section ID": 152,
+        "Title": "Assaulting or hindering public servant on duty in suppressing riot, etc.",
+        "Description": "Assaulting or hindering a public servant on duty in suppressing a riot, assault or affray",
+        "Punishment": "Imprisonment for 3 years or fine or both"
+    },
+    {
+        "Section ID": 153,
+        "Title": "Wantonly obstructing public servant in discharge of public functions",
+        "Description": "Wantonly resisting or obstructing a public servant in the discharge of his public functions",
+        "Punishment": "Imprisonment for 6 months or fine or both"
+    },
+    {
+        "Section ID": 154,
+        "Title": "Affray",
+        "Description": "Using force or violence, or threatening to use force or violence, in any public place, in a manner likely to cause a reasonable apprehension of violence",
+        "Punishment": "Imprisonment for 3 months or fine or both"
+    },
+    {
+        "Section ID": 155,
+        "Title": "Rioting",
+        "Description": "Joining or continuing in an assembly of three or more persons riotously and unlawfully assembled",
+        "Punishment": "Imprisonment for 3 years or fine or both"
+    },
+    {
+        "Section ID": 156,
+        "Title": "Moving in procession armed",
+        "Description": "Going armed with any deadly weapon to or being armed with any deadly weapon at, an unlawful assembly",
+        "Punishment": "Imprisonment for 3 years or fine or both"
+    },
+    {
+        "Section ID": 157,
+        "Title": "Injuring or defiling a place of worship",
+        "Description": "Injuring or defiling a place of worship or any object held sacred by any class of persons",
+        "Punishment": "Imprisonment for 2 years or fine or both"
+    },
+    {
+        "Section ID": 158,
+        "Title": "Trespass on burial places",
+        "Description": "Trespassing on any place of human burial and doing any thing which tends to insult the religious feelings of any class of persons",
+        "Punishment": "Imprisonment for 2 years or fine or both"
+    },
+    {
+        "Section ID": 159,
+        "Title": "Outraging the modesty of a woman",
+        "Description": "Intentionally insulting the modesty of a woman",
+        "Punishment": "Imprisonment for 3 years or fine or both"
+    },
+    {
+        "Section ID": 160,
+        "Title": "Indecent assault on a woman",
+        "Description": "Making an assault on a woman with intent to dishonour her, otherwise than by an unchaste act or by compelling her to marry him or any other person",
+        "Punishment": "Imprisonment for 10 years and fine"
+    },
+    {
+        "Section ID": 161,
+        "Title": "Kidnapping or abducting any person",
+        "Description": "Kidnapping or abducting any person",
+        "Punishment": "Imprisonment for 7 years and fine"
+    },
+    {
+        "Section ID": 162,
+        "Title": "Wrongfully confining any person",
+        "Description": "Wrongfully confining any person for three or more days",
+        "Punishment": "Imprisonment for 7 years and fine"
+    },
+    {
+        "Section ID": 163,
+        "Title": "Abusing children or causing them unnecessary suffering",
+        "Description": "Intentionally subjecting a child to physical or mental torture or pain or abusing a child",
+        "Punishment": "Imprisonment for 3 years or fine or both"
+    },
+    {
+        "Section ID": 164,
+        "Title": "Neglecting minor for whom he is responsible",
+        "Description": "Wilfully neglecting any minor under the age of sixteen of whom he has the charge or care",
+        "Punishment": "Imprisonment for 2 years or fine or both"
+    },
+    {
+        "Section ID": 165,
+        "Title": "Bigamy",
+        "Description": "Whoever, having a husband or wife, marries another person during the lifetime of such husband or wife",
+        "Punishment": "Imprisonment for 7 years and fine"
+    },
+    {
+        "Section ID": 167,
+        "Title": "Cruelty to animals",
+        "Description": "If any person cruelly subjects any animal to any pain or suffering, the penalty shall be imprisonment for one month or fine of ten thousand rupees, or both",
+        "Punishment": "Imprisonment for 1 month or fine of ten thousand rupees, or both"
+    },
+    {
+        "Section ID": 168,
+        "Title": "Entering house-trespass by night",
+        "Description": "Knowingly entering or being in the dwelling-house of another person, or any building used as a dwelling-house, with intent to commit an offence therein, or having entered with such intent, remain therein",
+        "Punishment": "Imprisonment for 2 years or fine or both"
+    },
+    {
+        "Section ID": 169,
+        "Title": "House-trespass",
+        "Description": "Knowingly entering or being in any building, or enclosure used as a place for keeping property, or for holding animals, or for manufacturing or carrying on any business, without lawful excuse",
+        "Punishment": "Imprisonment for 3 months or fine or both"
+    },
+    {
+        "Section ID": 170,
+        "Title": "Lurking house-trespass or house-breaking",
+        "Description": "Lurking house-trespass or house-breaking by night",
+        "Punishment": "Imprisonment for 7 years and fine"
+    },
+    {
+        "Section ID": 171,
+        "Title": "Breaking out of confinement",
+        "Description": "Breaking out of lawful confinement",
+        "Punishment": "Imprisonment for 7 years or fine or both"
+    },
+    {
+        "Section ID": 172,
+        "Title": "Offering resistance to or escaping by force when arrested",
+        "Description": "Offering resistance to, or escaping by force from, the lawful custody of a public servant",
+        "Punishment": "Imprisonment for 3 years or fine or both"
+    },
+    {
+        "Section ID": 173,
+        "Title": "Harboring an escaped person",
+        "Description": "Harboring or concealing an escaped person",
+        "Punishment": "Imprisonment for 1 year or fine or both"
+    },
+    {
+        "Section ID": 174,
+        "Title": "Furnishing false information",
+        "Description": "Furnishing false information to a public servant or to another person authorized to receive such information",
+        "Punishment": "Imprisonment for 3 months or fine or both"
+    },
+    {
+        "Section ID": 175,
+        "Title": "Omission to give notice or information to public servant of offences",
+        "Description": "Omitting to give notice or information to a public servant of any offence committed in his presence, if he were bound by law to give such notice",
+        "Punishment": "Imprisonment for 6 months or fine or both"
+    },
+    {
+        "Section ID": 176,
+        "Title": "Omission to assist public servant when required to do so",
+        "Description": "Omitting to assist a public servant when lawfully required to do so",
+        "Punishment": "Imprisonment for 3 months or fine or both"
+    },
+    {
+        "Section ID": 177,
+        "Title": "Failure to provide assistance during riots, affrays, etc.",
+        "Description": "Failing to assist a public servant in suppressing a riot, affray or assault, when lawfully required to do so",
+        "Punishment": "Imprisonment for 3 months or fine or both"
+    },
+    {
+        "Section ID": 178,
+        "Title": "Refusing to take oath as juror or witness",
+        "Description": "Refusing to take oath as a juror or witness, or to answer any lawful question",
+        "Punishment": "Imprisonment for 3 months or fine or both"
+    },
+    {
+        "Section ID": 179,
+        "Title": "Refusing to answer questions by public servant lawfully authorized to ask questions",
+        "Description": "Refusing to answer questions lawfully put by a public servant lawfully empowered to ask them",
+        "Punishment": "Imprisonment for 3 months or fine or both"
+    },
+    {
+        "Section ID": 180,
+        "Title": "Neglecting duty as regards fire or pestilence",
+        "Description": "Negligently omitting to do what he is legally bound to do, with intent to danger life, safety, or health of the public",
+        "Punishment": "Imprisonment for 6 months or fine or both"
+    },
+    {
+        "Section ID": 181,
+        "Title": "Malignant act likely to spread infection of disease dangerous to life",
+        "Description": "Maliciously doing any act which is likely to spread the infection of disease dangerous to life",
+        "Punishment": "Imprisonment for 2 years or fine or both"
+    },
+    {
+        "Section ID": 182,
+        "Title": "Disobedience to quarantine rule",
+        "Description": "Disobeying any rule or direction lawfully made or given by any public servant as such",
+        "Punishment": "Imprisonment for 6 months or fine or both"
+    },
+    {
+        "Section ID": 183,
+        "Title": "Rash and negligent act likely to endanger human life or safety",
+        "Description": "Doing any rash or negligent act or omitting to do any act which he is legally bound to do, if the act or omission is likely to endanger human life, safety, or health",
+        "Punishment": "Imprisonment for 6 months or fine or both"
+    },
+    {
+        "Section ID": 184,
+        "Title": "Driving vehicle in public way to the danger of the public",
+        "Description": "Driving any vehicle on any public way recklessly or negligently, or at a speed or in a manner which is dangerous to the public",
+        "Punishment": "Imprisonment for 6 months or fine or both"
+    },
+    {
+        "Section ID": 185,
+        "Title": "Drunkenness in public places",
+        "Description": "In any public place, being drunk, or behaving in a disorderly or indecent manner while drunk",
+        "Punishment": "Imprisonment for 24 hours or fine of ten rupees, or both"
+    },
+    {
+        "Section ID": 186,
+        "Title": "Obstructing public way with intent to cause annoyance",
+        "Description": "Obstructing any public way, or rendering it inaccessible, without lawful excuse",
+        "Punishment": "Imprisonment for 1 month or fine of two hundred rupees, or both"
+    },
+    {
+        "Section ID": 187,
+        "Title": "Exposing an obscene book, print, etc., for sale or public view",
+        "Description": "Selling or exposing for sale or to public view, any obscene book, pamphlet, paper, drawing, painting, engraving, figure, or image",
+        "Punishment": "Imprisonment for 3 months or fine of two thousand rupees, or both"
+    },
+    {
+        "Section ID": 188,
+        "Title": "Lewd acts in public places",
+        "Description": "Committing any lewd act in any public place, or in any place intended for use by, or resorted to by, the public",
+        "Punishment": "Imprisonment for 3 months or fine of two hundred rupees, or both"
+    },
+    {
+        "Section ID": 189,
+        "Title": "Sale of noxious food or drink",
+        "Description": "Selling, or offering for sale, any noxious food or drink, or adulterated food or drink, injurious to health",
+        "Punishment": "Imprisonment for 6 months or fine of one thousand rupees, or both"
+    },
+    {
+        "Section ID": 190,
+        "Title": "Negligence as to fire or combustible matter",
+        "Description": "Negligently taking fire or any combustible matter in or near any place where it is likely to cause mischief",
+        "Punishment": "Imprisonment for 6 months or fine of five hundred rupees, or"
+    },
+    {
+        "Section ID": 191,
+        "Title": "Continuing nuisance after notice",
+        "Description": "Keeping any disorderly or common gaming house, or a house for the purpose of smoking opium, or of using any other intoxicating or narcotic drug",
+        "Punishment": "Imprisonment for 3 months or fine of two hundred rupees, or both"
+    },
+    {
+        "Section ID": 192,
+        "Title": "Disclosing matters of evidence given in secret",
+        "Description": "Disclosing the contents of any document which has been produced in evidence in a judicial proceeding",
+        "Punishment": "Imprisonment for 2 years or fine or both"
+    },
+    {
+        "Section ID": 193,
+        "Title": "Giving or fabricating false evidence in a judicial proceeding",
+        "Description": "Giving or fabricating false evidence in any stage of a proceeding in any Court",
+        "Punishment": "Imprisonment for 7 years or fine or both"
+    },
+    {
+        "Section ID": 194,
+        "Title": "Using in evidence document known to be forged",
+        "Description": "Using in evidence any document which the person knows or has reason to believe to be forged",
+        "Punishment": "Imprisonment for 2 years or fine or both"
+    },
+    {
+        "Section ID": 195,
+        "Title": "Obstructing justice by destroying evidence",
+        "Description": "Intentionally destroying or suppressing any document or evidence which is or may be required in evidence in a judicial proceeding",
+        "Punishment": "Imprisonment for 2 years or fine or both"
+    },
+    {
+        "Section ID": 196,
+        "Title": "False charge of offence made with intent to cause injury",
+        "Description": "Fabricating a false charge of any offence against any person, knowing or believing such charge to be false",
+        "Punishment": "Imprisonment for 3 years or fine or both"
+    },
+    {
+        "Section ID": 197,
+        "Title": "Perjury",
+        "Description": "Intentionally giving false evidence on oath, whether such evidence is given in a Court or before any person authorized by law to receive evidence",
+        "Punishment": "Imprisonment for 7 years or fine or both"
+    },
+    {
+        "Section ID": 198,
+        "Title": "Fabricating false evidence to cause death",
+        "Description": "Fabricating false evidence with intent to cause any person to be sentenced to death",
+        "Punishment": "Imprisonment for life"
+    },
+    {
+        "Section ID": 199,
+        "Title": "Intentional omission to bring offender to justice",
+        "Description": "Public servant intentionally omitting to bring to justice any person whom he knows or has reason to believe to be guilty of an offence",
+        "Punishment": "Imprisonment for 2 years or fine or both"
+    },
+    {
+        "Section ID": 200,
+        "Title": "Intentional omission to inform public servant of offences committed",
+        "Description": "Public servant intentionally omitting to inform his superior officer of any offence committed in his presence, if he is bound by law to give such information",
+        "Punishment": "Imprisonment for 6 months or fine or both"
+    },
+    {
+        "Section ID": 201,
+        "Title": "Taking gift by a public servant for official act",
+        "Description": "Accepting or obtaining, or agreeing to accept or obtain, from any person, for himself or for any other person, any undue gratification or reward",
+        "Punishment": "Imprisonment for 7 years or fine or both"
+    },
+    {
+        "Section ID": 202,
+        "Title": "Offering undue gratification to a public servant",
+        "Description": "Offering any undue gratification to a public servant, as motive or reward for doing or refraining from doing any official act",
+        "Punishment": "Imprisonment for 3 years or fine or both"
+    },
+    {
+        "Section ID": 203,
+        "Title": "Inciting or attempting to incite public servant to commit offence",
+        "Description": "Instigating or attempting to instigate a public servant to commit any offence",
+        "Punishment": "Imprisonment for 2 years or fine or both"
+    },
+    {
+        "Section ID": 204,
+        "Title": "Misrepresenting public servant's power or intention",
+        "Description": "Knowingly making any false or fraudulent representation as to the power or position of a public servant or as to his ability to do or cause to be done anything which such public servant cannot do or cause to be done",
+        "Punishment": "Imprisonment for 2 years or fine or both"
+    },
+    {
+        "Section ID": 205,
+        "Title": "False statement in declaration which is by law receivable as evidence",
+        "Description": "Making, in any declaration which is by law receivable as evidence, any statement which he knows or believes to be false",
+        "Punishment": "Imprisonment for 3 years or fine or both"
+    },
+    {
+        "Section ID": 206,
+        "Title": "Abetment of false statement in declaration which is by law receivable as evidence",
+        "Description": "Abetting the making, in any declaration which is by law receivable as evidence, of any statement which he knows or believes to be false",
+        "Punishment": "Imprisonment for 3 years or fine or both"
+    },
+    {
+        "Section ID": 207,
+        "Title": "Fraudulently or dishonestly inducing delivery of property",
+        "Description": "Intentionally inducing any person to deliver any property to himself or any other person or to enter into or make any contract, by means of any false representation",
+        "Punishment": "Imprisonment for 7 years or fine or both"
+    },
+    {
+        "Section ID": 208,
+        "Title": "Dishonestly inducing delivery of property",
+        "Description": "Dishonestly inducing any person to deliver any property to himself or any other person or to enter into or make any contract, by means of any deceitful practice",
+        "Punishment": "Imprisonment for 3 years or fine or both"
+    },
+    {
+        "Section ID": 210,
+        "Title": "Cheating by personation",
+        "Description": "Cheating by falsely personating another person",
+        "Punishment": "Imprisonment for 3 years or fine or both"
+    },
+    {
+        "Section ID": 211,
+        "Title": "Obtaining property by inducing belief of false authority",
+        "Description": "Obtaining any property by inducing a false belief that the offender is lawfully authorized to demand such property",
+        "Punishment": "Imprisonment for 3 years or fine or both"
+    },
+    {
+        "Section ID": 212,
+        "Title": "Fraudulently causing delivery of property",
+        "Description": "Fraudulently causing a false delivery of property to be made by a servant or agent",
+        "Punishment": "Imprisonment for 2 years or fine or both"
+    },
+    {
+        "Section ID": 213,
+        "Title": "Taking insufficient security for money",
+        "Description": "Taking or accepting from any person, any other security than is provided by law, for any loan or debt or other obligation",
+        "Punishment": "Imprisonment for 1 year or fine or fine (amount equal to the value of the loan)"
+    },
+    {
+        "Section ID": 214,
+        "Title": "Issuing or signing cheques without sufficient funds",
+        "Description": "Issuing or signing a cheque on a bank or by any other drawer payable to order payable in the future of such a date that when it becomes due the drawer will not have sufficient funds in such bank or in the hands of such drawee to meet the payment in full",
+        "Punishment": "Imprisonment for 2 years or fine or both"
+    },
+    {
+        "Section ID": 215,
+        "Title": "Stopping payment of cheque when account has sufficient funds",
+        "Description": "By order stopping payment of a cheque drawn on a bank or by any other drawer for which payment sufficient money already exists in his account",
+        "Punishment": "Imprisonment for 2 years or fine or both"
+    },
+    {
+        "Section ID": 216,
+        "Title": "Dishonoring bills of exchange",
+        "Description": "Dishonoring a bill of exchange which he has accepted",
+        "Punishment": "Imprisonment for 2 years or fine or both"
+    },
+    {
+        "Section ID": 217,
+        "Title": "Abetment of dishonoring bills of exchange",
+        "Description": "Abetting the dishonouring of a bill of exchange which has been accepted",
+        "Punishment": "Imprisonment for 2 years or fine or both"
+    },
+    {
+        "Section ID": 218,
+        "Title": "Fraudulently making false promise with intent to cause injury",
+        "Description": "Fraudulently or deceitfully causing any person to do or omit to do anything which he is not legally bound to do or omit",
+        "Punishment": "Imprisonment for 1 year or fine or both"
+    },
+    {
+        "Section ID": 219,
+        "Title": "Causing death by negligence",
+        "Description": "Causing the death of any person by doing any rash or negligent act not amounting to culpable homicide",
+        "Punishment": "Imprisonment for 2 years or fine or both"
+    },
+    {
+        "Section ID": 220,
+        "Title": "Attempt to commit culpable homicide",
+        "Description": "Attempting to commit culpable homicide",
+        "Punishment": "Imprisonment for 7 years or fine or both"
+    },
+    {
+        "Section ID": 221,
+        "Title": "Letting loose dangerous animals",
+        "Description": "Letting loose any animal for mischievous purposes, or in any manner likely to cause mischief",
+        "Punishment": "Imprisonment for 6 months or fine of two hundred rupees, or both"
+    },
+    {
+        "Section ID": 222,
+        "Title": "Negligently causing bodily harm",
+        "Description": "Causing bodily harm to any person by doing any rash or negligent act",
+        "Punishment": "Imprisonment for 1 year or fine of five hundred rupees, or both"
+    },
+    {
+        "Section ID": 223,
+        "Title": "Simple imprisonment",
+        "Description": "Simple imprisonment for a term which may extend to two years.",
+        "Punishment": "Imprisonment for up to 2 years"
+    },
+    {
+        "Section ID": 224,
+        "Title": "Imprisonment of either description",
+        "Description": "Imprisonment of either description for a term which may extend to ten years.",
+        "Punishment": "Imprisonment for up to 10 years"
+    },
+    {
+        "Section ID": 225,
+        "Title": "Solitary confinement",
+        "Description": "Solitary confinement for any term not exceeding three months.",
+        "Punishment": "Solitary confinement for up to 3 months"
+    },
+    {
+        "Section ID": 226,
+        "Title": "Fine",
+        "Description": "Fine.",
+        "Punishment": "Fine of varying amounts depending on the offense"
+    }
+]
