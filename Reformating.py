@@ -1,16 +1,64 @@
+# # import pandas as pd
+# #
+# # def make_columns_adjacent(input_file, output_file):
+# #     # Read the Excel file
+# #     df = pd.read_excel(input_file)
+# #
+# #     # Drop columns that are entirely empty
+# #     df = df.dropna(axis=1, how='all')
+# #
+# #     # Rearrange columns to be adjacent (in the order they appear)
+# #     columns = df.columns.tolist()
+# #     df = df[columns]
+# #
+# #     # Write the new DataFrame to a new Excel file
+# #     df.to_excel(output_file, index=False)
+# #
+# # # Example usage
+# # input_file = r'E:\learning python\japanese adjacent.xlsx'
+# # output_file = 'output_japanese.xlsx'
+# # make_columns_adjacent(input_file, output_file)
+# import pandas as pd
+#
+# # Load the Excel file
+# input_file = r'E:\learning python\japanese adjacent.xlsx'
+# output_file = 'Check_Japanese.xlsx'
+# df = pd.read_excel(input_file)
+#
+# # Print the initial dataframe
+# print("Initial DataFrame:")
+# print(df)
+#
+# # Remove columns that are completely empty
+# df = df.dropna(axis=1, how='all')
+#
+# # Save the updated dataframe back to an Excel file
+# df.to_excel(output_file, index=False)
+#
+# # Print the updated dataframe
+# print("Updated DataFrame:")
+# print(df)
 import pandas as pd
 
-def process_csv(input_file, output_file):
-    # Read the CSV file
-    df = pd.read_csv(input_file)
+def retain_first_six_columns(input_file, output_file):
+    # Load the Excel file
+    df = pd.read_excel(input_file)
 
-    # Replace empty spaces with the string 'null'
-    df.replace(r'^\s*$', 'null', regex=True, inplace=True)
+    # Print the initial dataframe
+    print("Initial DataFrame:")
+    print(df)
 
-    # Save the modified DataFrame to a new CSV file
-    df.to_csv(output_file, index=False)
+    # Retain only the first six columns
+    df = df.iloc[:, :6]
+
+    # Save the updated dataframe back to an Excel file
+    df.to_excel(output_file, index=False)
+
+    # Print the updated dataframe
+    print("Updated DataFrame:")
+    print(df)
 
 # Example usage
-input_file = 'E:\learning python\Check(PN).csv'
-output_file = 'Check Final.csv'
-process_csv(input_file, output_file)
+input_file = r'E:\learning python\Check_Japanese.xlsx'
+output_file = 'Check_file(Updated japanese).xlsx'
+retain_first_six_columns(input_file, output_file)
